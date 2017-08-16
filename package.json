@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "first nodejs initialiser npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djaafarcode/nodeJS.git"
+  },
+  "author": "Djaafar BOUMAZA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djaafarcode/nodeJS/issues"
+  },
+  "homepage": "https://github.com/djaafarcode/nodeJS#readme",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
+}
