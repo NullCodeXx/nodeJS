@@ -1,0 +1,6 @@
+function () {
+    if(err) {
+        console.error(err);
+    }
+    console.log('toto.txt à été crée');
+}
